@@ -2,3 +2,7 @@ img {
     height: 150px;
     width: 150px;
 }
+
+body {
+    background: linear-gradient(right, rgba(9, 100, 17, 4) 0%, rgba(2, 157, 90, 4) 100%);
+}
